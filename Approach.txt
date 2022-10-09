@@ -1,0 +1,13 @@
+Demand Forecasting=>
+For demand forecasting we took max values for 2019 and 2020 demands predicted using the following two models.
+
+Linear Regression:
+The first model is a simple linear regressor where seperate linear regression models were trained for 4096 demand points.
+
+N-BEATS: 
+In order to capture spatial information we took the task of prediction from univariate time series to multivariate time series.
+We divided the supply grid into smaller grids of 4*4 and then we trained seperate NBEATS model using DART python module.
+
+Optimiztion:
+For optimization task we used linear programming, since all of our constraints were linear. This was achieved with the help of PULP module. 
+
