@@ -1,4 +1,5 @@
-### This was the submission for the SHELLAI-EV-Challenge
+# Shell.AI EV Challenge 2022 - Team Cerebro
+This was the submission for the SHELLAI-EV-Challenge 2022 
 
 # Problem Statement:
 The challenge was to optimally place EV charging stations so that the configuration remains robust to demographic changes.
