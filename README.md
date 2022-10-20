@@ -9,6 +9,8 @@ EV charging stations are typically installed at public parking locations so that
 
 Using the demand map, supply map, demand-supply constraints and objective, optimally place the EV charging stations so that the designed EV infrastructure is best suited to cater the forecasted demand.
 
+![EV charging stations](./images/readme.png)
+
 # Our Solution:
 ##For Demand Forcasting
 For demand forecasting we took max values for 2019 and 2020 demands predicted using the following two models:
@@ -19,7 +21,7 @@ The first model is a simple linear regressor where seperate linear regression mo
 ### N-BEATS: 
 ### Optimiztion:
 
-## Team Details:
+# Team Details:
 Aryan Gupta: Sophomore | BTech Electrical Engineering | IIT Roorkee | Core Team Member DSG 
 Devansh Bharadwaj: Sophomore | BTech Electronics & Computation Engineering | IIT Roorkee | Core Team Member DSG 
 Pradnya Shimpi: Sophomore | BTech Electrical Engineering | IIT Roorkee | Core Team Member DSG | Developer SDSLabs 
